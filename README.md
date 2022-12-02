@@ -1,1 +1,2 @@
-# Hackerrank_Regex_Solutions
+# Hackerrank_Regex
+Solutions to Regex Questions!!
